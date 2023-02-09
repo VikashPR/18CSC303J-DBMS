@@ -79,3 +79,33 @@ TRUNCATE TABLE DEPT12;
 ``` sql
 DROP TABLE DEPT
 ```
+
+## Employee table
+
+``` sql
+create table Employee(name varchar(20), empid int, dept varchar(20), phone_num int);
+```
+
+``` sql
+alter table Employee add(DOJ date,position varchar(20));
+```
+
+``` sql
+alter table Employee modify name varchar(25);
+```
+
+``` sql
+desc Employee;
+```
+
+``` sql
+ALTER TABLE Employee CHANGE position Designation VARCHAR(50);
+```
+
+``` sql
+desc Employee;
+```
+
+``` sql
+alter table Employee rename to Emp_table;
+```
