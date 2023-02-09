@@ -4,14 +4,14 @@
 
 ``` sql
 CREATE TABLE EMP (
-    Emp_No int,
-    Ename varchar(255),
-    DOJ date,
-    Dept varchar(255),
-    Dept_No int,
-    Designation varchar(255),
-    Commision varchar(255),
-    Sal int
+    EMPNO int,
+  	ENAME varchar(50),
+    JOB varchar(20),
+  	MGR int,
+  	HIREDATE date,
+  	SAL int,
+  	COMM int,
+  	DEPTNO int
 );
 ```
 
