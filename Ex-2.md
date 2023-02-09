@@ -86,3 +86,33 @@ UPDATE DEPT SET LOC = "NEW YORK";
 ``` sql
 UPDATE DEPT SET LOC = "DALLAS" WHERE DEPTNO = 20;
 ```
+
+### Q8) Delete the rows from EMP table whose employee name = ‘PAUL’
+
+``` SQL
+DELETE FROM EMP WHERE ENAME="PAUL";
+```
+
+### Q9) List all the columns and rows of the table DEPT
+
+``` SQL
+SELECT * FROM DEPT;
+```
+
+### Q10) List the name of the employee and salary of EMP table
+
+``` SQL
+SELECT ENAME, SAL FROM EMP;
+```
+
+### Q11) Without duplication, list all names of the department of DEPT table.
+
+``` SQL
+SELECT DISTINCT DNAME FROM DEPT;
+```
+
+### Q12) Find out the name of an employee whose EMPNO is 7788.
+
+``` sql
+SELECT ENAME FROM EMP WHERE EMPNO = 7788;
+```
