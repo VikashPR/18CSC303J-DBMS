@@ -74,3 +74,15 @@ CREATE TABLE MANAGER(
 INSERT INTO MANAGER SELECT EMPNO,ENAME,SAL,HIREDATE
 FROM EMP WHERE JOB="MANAGER";
 ```
+
+### Q6)	Change the LOC of all rows of DEPT table by ‘NEW YORK’
+
+``` sql
+UPDATE DEPT SET LOC = "NEW YORK";
+```
+
+### Q7)	Change the LOC=’DALLAS’ for deptno=20 in DEPT table.
+
+``` sql
+UPDATE DEPT SET LOC = "DALLAS" WHERE DEPTNO = 20;
+```
