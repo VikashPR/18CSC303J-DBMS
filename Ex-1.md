@@ -99,7 +99,7 @@ desc Employee;
 ```
 
 ``` sql
-ALTER TABLE Employee CHANGE position Designation VARCHAR(50);
+ALTER TABLE Employee rename column position to Designation;
 ```
 
 ``` sql
