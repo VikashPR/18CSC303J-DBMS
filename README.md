@@ -1,7 +1,12 @@
 # DBMS-Lab
 
-## Instaclient login link
+This repository contains the lab assignments for the course DBMS.
 
-```
- RA2011003010737/RA2011003010737@ryamini-msenthilraja.co86hfjmfjkx.us-west-2.rds.amazonaws.com:1521/orcl
-```
+<!-- Draw table and give link to the Ex-1,Ex-2 -->
+
+## Table of Contents
+
+| S.No. | Assignment | Link |
+| :---: | :---: | :---: |
+| 1 | Ex-1 | [Link](./Ex-1.md) |
+| 2 | Ex-2 | [Link](./Ex-2.md) |
