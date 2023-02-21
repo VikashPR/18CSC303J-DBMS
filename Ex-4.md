@@ -54,3 +54,9 @@ ALTER TABLE EMP ADD CONSTRAINT chk_salary CHECK (SALARY BETWEEN 10000 AND 20000)
 ``` sql
 ALTER TABLE EMP ADD CONSTRAINT fk_deptno FOREIGN KEY (DEPT_NO) REFERENCES Department(DEPT_NO);
 ```
+
+### Q7) To add a check constraint to the EMP table to restrict commission values less than 10%:
+
+``` sql
+ALTER TABLE EMP ADD CONSTRAINT chk_commission CHECK (COMMISSION < SALARY*0.1);
+```
