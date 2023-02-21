@@ -41,3 +41,10 @@ ALTER TABLE Department ADD CONSTRAINT uk_dname UNIQUE (DNAME);
 ``` sql
 ALTER TABLE Department MODIFY HIRE_DATE NOT NULL;
 ```
+
+
+### Q5) To add a check constraint to the EMP table to restrict salary values between 10,000 and 20,000:
+
+``` sql
+ALTER TABLE EMP ADD CONSTRAINT chk_salary CHECK (SALARY BETWEEN 10000 AND 20000);
+```
