@@ -72,3 +72,10 @@ VALUES (7369, 'SMITH', 'CLERK', '17-DEC-1980', 800, NULL, 20);
 INSERT INTO EMP (EMP_NO, ENAME, JOB, HIRE_DATE, SALARY, COMMISSION, DEPT_NO) 
 VALUES (7499, 'ALLEN', 'SALESMAN', '20-FEB-1981', 1600, 300, 30);
 ```
+
+### Q9) To insert data into the EMP table that violates the foreign key constraint and produce an error:
+
+``` sql
+INSERT INTO EMP (EMP_NO, ENAME, JOB, HIRE_DATE, SALARY, COMMISSION, DEPT_NO) 
+VALUES (7521, 'WARD', 'SALESMAN', '22-FEB-1981', 1250, 500, 40);
+```
