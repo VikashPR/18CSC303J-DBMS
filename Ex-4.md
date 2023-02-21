@@ -48,3 +48,9 @@ ALTER TABLE Department MODIFY HIRE_DATE NOT NULL;
 ``` sql
 ALTER TABLE EMP ADD CONSTRAINT chk_salary CHECK (SALARY BETWEEN 10000 AND 20000);
 ```
+
+### Q6) To add a foreign key constraint to DEPT_NO column of EMP table referencing DEPT_NO of Department table:
+
+``` sql
+ALTER TABLE EMP ADD CONSTRAINT fk_deptno FOREIGN KEY (DEPT_NO) REFERENCES Department(DEPT_NO);
+```
