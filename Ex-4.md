@@ -29,3 +29,15 @@ CREATE TABLE EMP (
 );
 
 ```
+
+### Q3) To add a unique key constraint to DNAME column of Department table:
+
+``` sql
+ALTER TABLE Department ADD CONSTRAINT uk_dname UNIQUE (DNAME);
+```
+
+### Q4) To add a not null constraint to HIRE_DATE column of Department table:
+
+``` sql
+ALTER TABLE Department MODIFY HIRE_DATE NOT NULL;
+```
