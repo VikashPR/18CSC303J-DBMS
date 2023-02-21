@@ -11,4 +11,21 @@ CREATE TABLE Department (
   DLOC VARCHAR(10)
 );
 ```
+### Q2) To create the EMP table with the attributes and add a primary key constraint to EMP_NO and a default constraint to MANAGER_NAME:
 
+![Screenshot 2023-02-21 at 9 15 47 AM](https://user-images.githubusercontent.com/69889418/220242468-232bc435-d528-4c90-8668-2bb1d363c18b.png)
+
+``` sql
+CREATE TABLE EMP (
+  EMP_NO NUMBER(5) PRIMARY KEY,
+  ENAME VARCHAR(10),
+  JOB VARCHAR(10),
+  MANAGER_NAME VARCHAR(10) DEFAULT 'Mr.K. RAM',
+  HIRE_DATE DATE,
+  SALARY NUMBER(50),
+  COMMISSION NUMBER(50),
+  DEPT_NO VARCHAR(5),
+  CONSTRAINT fk_deptno FOREIGN KEY (DEPT_NO) REFERENCES Department(DEPT_NO)
+);
+
+```
