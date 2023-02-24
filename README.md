@@ -1,6 +1,7 @@
 # DBMS-Lab
 
 This repository contains the lab assignments for the course DBMS.
+ [Checkout Dharsan19 repo if you face any error in this codes](https://github.com/dharsan19/DBMS_LAB)
 
 # Insta client URL
 
