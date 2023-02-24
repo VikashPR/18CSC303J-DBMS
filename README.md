@@ -16,3 +16,4 @@ This repository contains the lab assignments for the course DBMS.
 | 1 | Ex-1 | [Link](./Ex-1.md) |
 | 2 | Ex-2 | [Link](./Ex-2.md) |
 | 3 | Ex-4 | [Link](./Ex-4.md) |
+| 4 | Ex-5 | [Link](./Ex-5.md) |
