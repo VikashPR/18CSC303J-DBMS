@@ -14,3 +14,28 @@ GRANT SELECT, INSERT, UPDATE ON EMPTO RA2011003010732;
 ``` sql
 REVOKE SELECT, INSERT, UPDATE ON EMP FROM RA2011003010732;
 ```
+
+## TCL
+
+### Q1) Create the department table add the details and commit the data. Data for DEPT table
+![TCL Table-1](https://user-images.githubusercontent.com/69889418/221097302-33d3fe54-ef30-4550-9e3d-5f033ea5977f.png)
+``` sql
+CREATE TABLE DEPT (
+  DEPTNO INT PRIMARY KEY,
+  DNAME VARCHAR(30) NOT NULL,
+  LOC VARCHAR(30) NOT NULL
+);
+
+INSERT INTO DEPT (DEPTNO, DNAME, LOC) VALUES (10, 'ACCOUNTING', 'NEW YORK');
+INSERT INTO DEPT (DEPTNO, DNAME, LOC) VALUES (20, 'RESEARCH', 'DALLAS');
+INSERT INTO DEPT (DEPTNO, DNAME, LOC) VALUES (30, 'SALES', 'CHICAGO');
+INSERT INTO DEPT (DEPTNO, DNAME, LOC) VALUES (40, 'OPERATIONS', 'BOSTON');
+INSERT INTO DEPT (DEPTNO, DNAME, LOC) VALUES (50, 'MANUFACTURING', 'BOSTON');
+
+```
+
+### Q2) Update the location of dept number ‘40’ as ‘San Francisco’ and don’tcommit the table.
+
+``` sql
+UPDATE DEPT SET LOC = 'San Francisco' WHERE DEPTNO = 40;
+```
