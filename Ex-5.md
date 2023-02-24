@@ -1,5 +1,7 @@
 # Data Control Language and Transaction Control Language
 
+## DCL Commands
+
 ### Q1) Give grant permission to your neighbor for any one of your tables. Tell him/her to access (modify the data) your table from their login.
 
 ``` sql
