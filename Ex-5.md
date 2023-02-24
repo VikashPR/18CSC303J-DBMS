@@ -8,7 +8,15 @@
 GRANT SELECT, INSERT, UPDATE ON EMPTO RA2011003010732;
 ```
 
+### Q2) Check the table again from your login. Observe the inference.
 
+``` sql
+ RA2011003010732/RA2011003010732@a1-a2-b1.c0vm8jxyhl5s.us-east-2.rds.amazonaws.com:1521/orcl
+```
+
+``` sql
+DESC EMP;
+```
 ### Q3) Revoke the permission and tell them to try for accessing your table.
 
 ``` sql
