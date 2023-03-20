@@ -3,7 +3,7 @@
 ## Create the table 
 
 ``` sql
-CREATE TABLE EMP (
+CREATE TABLE emp (
   EMPNO NUMBER(4) PRIMARY KEY,
   ENAME VARCHAR2(10),
   JOB VARCHAR2(9),
