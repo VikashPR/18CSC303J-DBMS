@@ -1,5 +1,11 @@
 # SQL FUNCTIONS
 
+## Drop the existing table
+
+``` sql
+Drop table emp;
+```
+
 ## Create the table 
 
 ``` sql
