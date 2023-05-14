@@ -54,7 +54,7 @@ ALTER TABLE DEPT MODIFY LOC varchar(15);
 ### Q9) Set MISCEL column in the DEPT table as unused
 
 ``` SQL
-ALTER TABLE DEPT DROP COLUMN MISCEL;
+ALTER TABLE DEPT SET UNUSED(MISCEL);
 ```
 
 ### Q10) Drop the column COMNT from the table DEPT
