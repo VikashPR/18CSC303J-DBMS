@@ -1,7 +1,6 @@
 # 18CSC303J-Database-Management-Systems
 [![Hits](https://hits.sh/github.com/VikashPR/DBMS.svg?extraCount=2578)](https://hits.sh/github.com/VikashPR/DBMS/)
 
-## Technologies Used
 ![AWS RDS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
