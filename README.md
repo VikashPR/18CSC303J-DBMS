@@ -21,7 +21,7 @@
 | 8 | Ex-8 SUB QUERIES | [Link](./Ex-8.md) |
 | 9 | Ex-9 VIEWS | [Link](./Ex-9.md) |
 | 10 | Ex-10 PL/SQL CONDITIONAL & ITERATIVE| [Link](./Ex-10.md) |
-| 11 | Ex-11| [Link](./Ex-11.md) |
+| 11 | Ex-11 PL/SQL PROCEDURES | [Link](./Ex-11.md) |
 | 12 | Ex-12 | [Link](./Ex-12.md) |
 | 13 | Ex-13 | [Link](./Ex-13.md) |
 | 14 | Ex-14 | [Link](./Ex-14.md) |
