@@ -18,7 +18,7 @@
 | 5 | Ex-5 DCL & TCL | [Link](./Ex-5.md) |
 | 6 | Ex-6 SQL FUNCTIONS | [Link](./Ex-6.md) |
 | 7 | Ex-7 JOINING TABLES | [Link](./Ex-7.md) |
-| 8 | Ex-8 | [Link](./Ex-8.md) |
+| 8 | Ex-8 SUB QUERIES | [Link](./Ex-8.md) |
 | 9 | Ex-9 | [Link](./Ex-9.md) |
 | 10 | Ex-10 | [Link](./Ex-10.md) |
 | 11 | Ex-11| [Link](./Ex-11.md) |
