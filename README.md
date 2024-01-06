@@ -1,4 +1,4 @@
-# 18CSC303J-Database-Management-Systems
+# 18CSC303J-DBMS-LAB
 [![Hits](https://hits.sh/github.com/VikashPR/DBMS.svg?extraCount=2578)](https://hits.sh/github.com/VikashPR/DBMS/)
 
 ![AWS RDS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
