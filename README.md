@@ -14,23 +14,31 @@
 
 | Ex | Assignment | Link |
 | --- | --- | --- |
-| 1 | CREATING DATABASE TABLE | [Link](./Ex-1.md) |
-| 2 | DATA MANIPULATION COMMANDS | [Link](./Ex-2.md) |
-| 3 | BASIC SELECT STATEMENTS | [Link](./Ex-3.md) |
-| 4 | INTEGRITY CONSTRAINTS | [Link](./Ex-4.md) |
-| 5 | DCL & TCL | [Link](./Ex-5.md) |
-| 6 | SQL FUNCTIONS | [Link](./Ex-6.md) |
-| 7 | JOINING TABLES | [Link](./Ex-7.md) |
-| 8 | SUB QUERIES | [Link](./Ex-8.md) |
-| 9 | VIEWS | [Link](./Ex-9.md) |
-| 10 | PL/SQL CONDITIONAL & ITERATIVE| [Link](./Ex-10.md) |
-| 11 | PL/SQL PROCEDURES | [Link](./Ex-11.md) |
-| 12 | PL/SQL FUNCTIONS | [Link](./Ex-12.md) |
-| 13 | PL/SQL CURSORS | [Link](./Ex-13.md) |
-| 14 | BUILT-IN EXCEPTION | [Link](./Ex-14.md) |
-| 15 | PL/SQL TRIGGERS | [Link](./Ex-15.md) |
+| 1 | Creating Database Table | [View➚](./Ex-1.md) |
+| 2 | Data Manipulation Commands | [View➚](./Ex-2.md) |
+| 3 | Basic Select Statements | [View➚](./Ex-3.md) |
+| 4 | Integrity Constraints | [View➚](./Ex-4.md) |
+| 5 | DCL & TCL | [View➚](./Ex-5.md) |
+| 6 | SQL Functions | [View➚](./Ex-6.md) |
+| 7 | Joining Tables | [View➚](./Ex-7.md) |
+| 8 | Sub Queries | [View➚](./Ex-8.md) |
+| 9 | Views | [View➚](./Ex-9.md) |
+| 10 | PL/SQL Conditional & Iterative| [View➚](./Ex-10.md) |
+| 11 | PL/SQL Procedures | [View➚](./Ex-11.md) |
+| 12 | PL/SQL Functions | [View➚](./Ex-12.md) |
+| 13 | PL/SQL Cursors | [View➚](./Ex-13.md) |
+| 14 | Built-in Exception | [View➚](./Ex-14.md) |
+| 15 | PL/SQL Triggers | [View➚](./Ex-15.md) |
+
 
 [Checkout this repo if you face any error in this codes](https://github.com/VikashPR/DBMS_LAB)
+
+## More contributions by the same author 🚀
+| Subject Code | Subject Name| Repo Link |
+| -- | -- | -- |
+| 18CSC305J-AI | Artificial Intelligence | [View➚](https://github.com/VikashPR/18CSC305J-AI) | 
+| 18CSC304J-CD | Compiler Design | [View➚](https://github.com/VikashPR/18CSC304J-CD) | 
+| 18CSE316J-DEVOPS | Essentials in Cloud and Devops | [View➚](https://github.com/VikashPR/18CSE316J-DEVOPS) | 
 
 ## Credit for being partners in crime 
 
