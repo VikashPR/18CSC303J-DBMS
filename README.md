@@ -25,6 +25,6 @@
 | 12 | Ex-12 PL/SQL FUNCTIONS | [Link](./Ex-12.md) |
 | 13 | Ex-13 PL/SQL CURSORS | [Link](./Ex-13.md) |
 | 14 | Ex-14 BUILT-IN EXCEPTION | [Link](./Ex-14.md) |
-| 15 | Ex-15 | [Link](./Ex-15.md) |
+| 15 | Ex-15 PL/SQL TRIGGERS | [Link](./Ex-15.md) |
 
 [Checkout this repo if you face any error in this codes](https://github.com/VikashPR/DBMS_LAB)
