@@ -12,8 +12,9 @@
 | S.No. | Assignment | Link |
 | :---: | :---: | :---: |
 | 1 | Ex-1 CREATING DATABASE TABLE | [Link](./Ex-1.md) |
-| 2 | Ex-2 DATA MANIPULATION COMMANDS| [Link](./Ex-2.md) |
-| 3 | Ex-4 BASIC SELECT STATEMENTS | [Link](./Ex-4.md) |
+| 2 | Ex-2 DATA MANIPULATION COMMANDS | [Link](./Ex-2.md) |
+| 3 | Ex-3 BASIC SELECT STATEMENTS | [Link](./Ex-4.md) |
+| 3 | Ex-4 INTEGRITY CONSTRAINTS | [Link](./Ex-4.md) |
 | 4 | Ex-5 | [Link](./Ex-5.md) |
 | 5 | Ex-6 | [Link](./Ex-6.md) |
 | 6 | Ex-7 | [Link](./Ex-7.md) |
