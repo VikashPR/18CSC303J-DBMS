@@ -13,7 +13,7 @@
 ## Table of Contents
 
 | Ex | Assignment | Link |
-| :---: | :---: | :---: |
+| --- | --- | --- |
 | 1 | CREATING DATABASE TABLE | [Link](./Ex-1.md) |
 | 2 | DATA MANIPULATION COMMANDS | [Link](./Ex-2.md) |
 | 3 | BASIC SELECT STATEMENTS | [Link](./Ex-3.md) |
