@@ -23,7 +23,7 @@
 | 10 | Ex-10 PL/SQL CONDITIONAL & ITERATIVE| [Link](./Ex-10.md) |
 | 11 | Ex-11 PL/SQL PROCEDURES | [Link](./Ex-11.md) |
 | 12 | Ex-12 PL/SQL FUNCTIONS | [Link](./Ex-12.md) |
-| 13 | Ex-13 | [Link](./Ex-13.md) |
+| 13 | Ex-13 PL/SQL CURSORS | [Link](./Ex-13.md) |
 | 14 | Ex-14 | [Link](./Ex-14.md) |
 | 15 | Ex-15 | [Link](./Ex-15.md) |
 
